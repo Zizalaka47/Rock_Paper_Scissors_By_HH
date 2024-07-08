@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors Game
 
 ## Project Title
-BreadcrumbsRock_Paper_Scissors_By_HH
+Rock_Paper_Scissors_By_HH
 
 ## Project Goals
 The goal of this project is to create a simple and interactive command-line game where the user can play "Rock, Paper, Scissors" against the computer. This project aims to provide an example of basic Python programming concepts such as conditionals, loops, and user input handling.
@@ -13,10 +13,13 @@ The problem is solved by using Python's built-in libraries and simple control st
 - `random` library for generating the computer's choice
 
 ## Source Code
-[Source Code](Rock_Paper_Scissors_By_HH.py)
+Use this link to go directly to the source code: [Source Code](Rock_Paper_Scissors_By_HH.py)
 
 ## Live Demo
-Unfortunately, a live demo is not possible for a command-line application. However, you can easily run the game on your local machine by following these steps:
+You can play the game directly in your Web browser here:
+[TRY IT NOW!](https://replit.com/join/phnnudmqib-hhristov2007)
+
+Alternatively, you can run the game on your local machine by following these steps:
 
 1. Download the source code from the provided link.
 2. Open a terminal or command prompt.
@@ -32,7 +35,7 @@ Unfortunately, a live demo is not possible for a command-line application. Howev
 
 ### Outputs
 - The game displays the user's choice and the computer's choice.
-- The game then announces the result: whether the user wins, loses, or if it's a draw.
+- After each round, the game asks the user if he/she want to play again. If the user chooses to continue, the game repeats. If the user chooses to stop, the game displays the final result showing the total number of wins for the player and the computer.
 
 ---
 
