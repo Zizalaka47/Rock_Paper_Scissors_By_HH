@@ -15,18 +15,6 @@ The problem is solved by using Python's built-in libraries and simple control st
 ## Source Code
 [Source Code](Rock_Paper_Scissors_By_HH.py)
 
-## Screenshots
-Here are some screenshots demonstrating different scenarios in the game:
-
-### User wins
-![User wins](screenshots/user_wins.png)
-
-### Draw
-![Draw](screenshots/draw.png)
-
-### User loses
-![User loses](screenshots/user_loses.png)
-
 ## Live Demo
 Unfortunately, a live demo is not possible for a command-line application. However, you can easily run the game on your local machine by following these steps:
 
