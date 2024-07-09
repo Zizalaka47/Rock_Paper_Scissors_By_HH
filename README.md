@@ -35,7 +35,7 @@ Alternatively, you can run the game on your local machine by following these ste
 
 ### Outputs
 - The game displays the user's choice and the computer's choice.
-- After each round, the game asks the user if he/she want to play again. If the user chooses to continue, the game repeats. If the user chooses to stop, the game displays the final result showing the total number of wins for the player and the computer.
+- After each round, the game asks the user if they want to play again. If the user chooses to continue, the game repeats. If the user chooses to stop, the game displays the final result showing the total number of wins for the player and the computer.
 
 ---
 
